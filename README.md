@@ -16,4 +16,4 @@ Hostel Management is an offline desktop application developed using [.NET Framew
 ### Screenshots:
 
 > - Login Window
-<img src="https://github.com/roshan139154/Hostel-Management/blob/master/Screenshot/HostelManagement.png" width="600" height="450" alt="Login Window Snap"/>
+<img src="https://github.com/roshan139154/Hostel-Management/blob/master/Screenshot/HostelManagement.png" margin-left="25%" width="600" height="450" alt="Login Window Snap"/>
