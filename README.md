@@ -12,3 +12,5 @@ Hostel Management is an offline desktop application developed using [.NET Framew
 - Navigate to your `HostelManagement.mdf` file and then click 'OK'. 
 - Click 'OK' once more to finish attaching the database and you are done. The database should be available for use.
 - Open [App.config](https://github.com/roshan139154/Hostel-Management/blob/master/HostelManagement/App.config) file and edit _connectionString_ value as per your server configuration.
+
+![Screenshot](https://github.com/roshan139154/Hostel-Management/blob/master/Screenshot/HostelManagement.png)
